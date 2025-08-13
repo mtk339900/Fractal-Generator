@@ -613,10 +613,7 @@ If you use this library in academic work, please cite:
 
 ### Getting Help
 
-- **Documentation**: [https://fractal-generator.readthedocs.io](https://fractal-generator.readthedocs.io)
-- **Issues**: [GitHub Issues](https://github.com/username/fractal-generator/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/username/fractal-generator/discussions)
-- **Email**: support@fractal-generator.org
+- **Email**: m00800196@gmail.com
 
 ### Commercial Support
 
