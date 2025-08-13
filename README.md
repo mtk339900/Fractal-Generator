@@ -43,7 +43,7 @@ pip install fractal-generator[gpu,web,video,precision]
 
 ### Development Installation
 ```bash
-git clone https://github.com/username/fractal-generator.git
+git clone https://github.com/mtk339900/fractal-generator.git
 cd fractal-generator
 pip install -e .[dev]
 ```
